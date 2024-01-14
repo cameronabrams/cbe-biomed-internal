@@ -1,0 +1,11 @@
+\frametitle{Common physical representations}
+
+\begin{center}
+    \begin{tabular}{lll}
+        Representation & Degrees of freedom & Laws\\\hline
+        Quantum mechanical & Electronic wave  & Schr\"odinger's equation\\
+          &  function expansions & \\
+        Classical & Point masses & Newtonian mechanics\\
+        Continuum & Volume elements & Continuum mechanics
+    \end{tabular}
+\end{center}
