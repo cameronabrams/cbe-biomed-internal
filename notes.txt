@@ -2,11 +2,7 @@ Why do we simulate reality?
   - experimental curiosity: if I change X, what is a likely or plausible response in Y
   - rapid iteration through many X's without "getting one's hands dirty"
 
-Are simulations "cost-effective"?  NO!
-  - Simulations cannot replace experiments.  
-  - Often, simulations suggest MORE experiments than an experimentalist would otherwise perform.
-
-Simulation: representation of reality 
+Simulation: representation of reality providing a carefully proscribed extension of cognition
   - degrees of freedom 
   - laws of interaction and change
 
@@ -42,13 +38,16 @@ Why experimentalists seek out moleular simulations
   - you believe that structure and function are linked and that physical laws underly biology
   - you recognize that you have an incomplete toolset for generating testable hypotheses
 
+Are simulations "cost-effective"?  NO!
+  - Simulations cannot replace experiments.  
+  - Often, simulations suggest MORE experiments than an experimentalist would otherwise perform.
+
 What does it cost to add molecular simulations to your otherwise experimental project?
   - if *you* do it yourself:
     - you and your mentees must be trained; can take about a year just to get off the ground
       - Linux at the command-line
-      - Remote access
-      - Batch processing on shared resources
-      - Production MD codes and analysis codes (NAMD, Gromacs, LAMMPS, OpenMM, Desmond, ...)
+      - High-performance computing (HPC) environments and remote access
+      - Software (NAMD, Gromacs, LAMMPS, OpenMM, Desmond, ...)
       - Data management
     - you have to secure computational resources; these are never free
       - your institution may have HPC resources (Drexel: URCF/Picotte)
@@ -57,7 +56,7 @@ What does it cost to add molecular simulations to your otherwise experimental pr
       - ACCESS: NSF-funded consortium of HPC resources
   - if you recruit a collaborator
     - expect to fund 0.5 - 2.0 FTE researchers, depending on scope
-    - expect to at least help in getting resources, especially if project is DoD or DoE funded
+    - expect to at least help in getting resources, especially if project is DoD or DoE funded or your institution has HPC resources that collaborators can use
     - expect to have regular meetings to align research activities -- simulationists need a lot of input and feedback
 
 What do simulationists do when they are not collaborating with experimentalists?
