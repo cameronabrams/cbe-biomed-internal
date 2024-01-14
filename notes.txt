@@ -1,5 +1,6 @@
 Why do we simulate reality?
   - experimental curiosity: if I change X, what is a likely or plausible response in Y
+  - rapid iteration through many X's without "getting one's hands dirty"
 
 Are simulations "cost-effective"?  NO!
   - Simulations cannot replace experiments.  
@@ -35,3 +36,24 @@ What can't molecular simulations do?
   - fully explain biomolecular mechanisms
   - fully predict protein thermodynamics (Tm, DG)
 
+Why experimentalists seek out moleular simulations
+  - you want a molecular-level perspective on the phenomena you study
+  - your project will seem "deeper"
+  - you believe that structure and function are linked and that physical laws underly biology
+  - you recognize that you have an incomplete toolset for generating testable hypotheses
+
+What does it cost to add molecular simulations to your otherwise experimental project?
+  - if *you* do it yourself:
+    - you and your mentees must be trained; can take about a year just to get off the ground
+      - Linux
+      - Remote access
+      - Batch processing
+      - Data management
+    - you have to secure computational resources; these are never free
+      - your institution may have HPC resources (Drexel: URCF/Picotte)
+      - you can buy time on Azure or AWS (very very expensive)
+      - DoD funded?  You can get HPMCP access.
+      - ACCESS: NSF-funded consortium of HPC resources
+  - if you recruit a collaborator
+    - expect to fund 0.5 - 2.0 FTE researchers, depending on scope
+    - expect to have regular meetings to align research activities -- simulationists need a lot of input and feedback
