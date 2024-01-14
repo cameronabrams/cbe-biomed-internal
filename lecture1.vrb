@@ -1,0 +1,15 @@
+\frametitle{Summary}
+\begin{itemize}
+\item \textcolor{red}{OTFP} combines enhanced sampling and free-energy-profile generation to provide deeper understanding of biomolecular mechanisms
+\begin{itemize}
+\item We rationalized DAVEI activity dependence on linker length
+\item We recapitulate water-mediated ``knock-on'' transport of multiple K$^+$ ions in Kv1.2, but also predict reduced barriers for dry transport
+\end{itemize}
+\item Demonstrated the \textcolor{magenta!80!black}{Climbing Multistrings Method} for locating stationary points in feature space
+\item Demonstrated \textcolor{green!80!black}{Markovian milestoning} along minimum free-energy pathways to estimate entry and exit rates of O$_{\sf 2}$ in MSOX
+\begin{itemize}
+\item MSOX: Simulations agree with experiment that modified ping-pong mechanism is more likely than ping-pong because substrate influences O$_{\sf 2}$
+entry and exit kinetics
+%\item MSOX: Substrate-induced gatekeeper closing and active-site desolvation likely underly the substrates effect on O$_{\sf 2}$.
+\end{itemize}
+\end{itemize}
