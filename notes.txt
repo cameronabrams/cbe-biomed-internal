@@ -1,6 +1,9 @@
 Why do we simulate reality?
-  - experimental curiosity; if I change X, what is the response of Y
-  - we have "pictures" and structures, but we don't necessarily know how they respond and interact
+  - experimental curiosity: if I change X, what is a likely or plausible response in Y
+
+Are simulations "cost-effective"?  NO!
+  - Simulations cannot replace experiments.  
+  - Often, simulations suggest MORE experiments than an experimentalist would otherwise perform.
 
 Simulation: representation of reality 
   - degrees of freedom 
@@ -16,14 +19,19 @@ Statistical Mechanics:  Observations as averages over microstates
 
 Molecular dynamics (MD) simulations: The most popular biomolecular simulation method
 
+Why is MD always "wrong"?  The curse of unattainable ergodicity
+
+NE VER THE LESS
+
 What kinds of things can molecular simulations do in the biosciences?
-  - fit atomic models to densities (MDFF)
-  - estimate effects of point mutations
-  - screen potential interaction partners
-  - model mechanisms to generate hypotheses (ion channels, enzymes, gas carriers)
-  - provide some equilibrium observables that can compare to experiments
+  - suggest atomic models that fit low-resolution data
+  - estimate effects of point mutations (Alchemical free energy); drug-target, protein-protein
+  - screen potential interaction partners (docking/scoring)
+  - model mechanisms to generate hypotheses (ion channels, enzymes, gas carriers) (rare event/free energy methods)
+  - provide "first-principles-based" estimates of some equilibrium observables that can compare to experiments
 
 What can't molecular simulations do?
   - predict 3D structures from 2D information alone
-  - explain biomolecular mechanisms
+  - fully explain biomolecular mechanisms
+  - fully predict protein thermodynamics (Tm, DG)
 
